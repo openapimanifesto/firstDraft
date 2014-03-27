@@ -1,7 +1,7 @@
 firstDraft
 ==========
 
-The open API manifesto. Crowdsourced.
+The open API manifesto.
 
 <h2>Foreword</h2>
 An API is an interface providing access to a resource, a data or a service. During the last few years, private APIs became public as a way for companies or other providers to outsource innovation.
