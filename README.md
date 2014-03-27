@@ -2,53 +2,56 @@ firstDraft
 ==========
 
 The open API manifesto.
+To Scale the API economy.
 
 <h2>Foreword</h2>
-An API is an interface providing access to a resource, a data or a service. During the last few years, private APIs became public as a way for companies or other providers to outsource innovation.
-This opening movement took on various forms, protocols, and led to various misunderstandings and conflicts about the notion of openness.
+Open APIs, as public web APIs are a wonderful way to share resources over the world wide web.
+We think that these open APIs can make the revolution the web needs to support the humans-to-humans, humans-to-machines and machines-to-machines communications, in automated, lightweight and efficient interactions.
+Because of the business behind it, lots of people call “web APIs” open APIs, where they can be open to only one, few, many or all, with restricted to non-restricted usage.
+These open APIs describe the interface to access to a resource, a data or a service which have often also restricted usage.
+After the case of Oracle vrsus Google, it seems that even API copyright trolls are pending.
 
-Open APIs must become the standard for automated, light and smart interactions in machines to machines interactions. This requires a paradigm in which API providers and third party developers can understand and trust one another.
+For a better understanding for developers, companies and institutions we decided to work on an ”Open API definition”
+Lots of people in the industry tried to make it without success in the API space, so we decided to crowdsource it as possible.
+We’ve made a tour around API experts met in API conferences to build a first draft about it, described hereunder
+as the definition of open is quite different towards people.
 
-This manifesto aims at providing the API industry with principles defining what should and should not be considered an open API. An API not complying with these principles should not be considered or labeled an Open API.
+Main principles : 
+We think that these open APIs, to enable a sharing economy on the web need to be :
 
-
-<h3>Lexical statement</h3>
-
-This document refers to three overlapping concepts; by definition:
 <ul>
-<li>a public API is an API that can be seen and accessed directly through a portal with a SLA, without any prior contact with the API provider</li>
-<li>a private API is an API accessed through a contract establishing a unique partnership between a provider and a consumer.</li>
-<li>an open API is a public API that defines a valuable contract between an API provider and third-party developers. It hence has value for both parties.</li>
+<li><strong>Accessible</strong> as easy to discover and to use</li>
+<li>Public as <strong>accessible</strong> to everybody</li>
+<li><strong>Transparent</strong> as sharing with the network new resources publicly </li>
+<li><strong>Neutral</strong> as accessible, public and transparent , so non-discriminant,  to 3rd-parties usage </li>
 </ul>
 
-The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED",  "MAY", and "OPTIONAL" in this document are to be interpreted as described in RFC 2119.
+The main goal is to find the requirements an open API need to fill in order to be recognized as an open API by the whole industry. 
+The aim of the contribution is to be able to put in the first draft requirements the  key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED",  "MAY", and "OPTIONAL" in this document  as described in RFC 2119.
 
 
 
 <h2>Principles</h2>
 
-<h3>1- Publicity</h3>
-Content and resources MUST be public. Public means that the description of the content and the resources fully understandable whithout identification requirement.
-API SHOULD be explorable through a fiddle directly on the provider’s platform.
-If not, descriptions MUST be visible through the provider’s platform (developer portal, API explorator).
+<h3>New resources to the network</h3> : The Open API provides valuable new assets (as resources) to the network to enable the community to build valuable 3rd-parties usages and applications/clients on top of these existing assets.
 
-<h3>2- NEUTRALITY</h3>
-API access or content SHALL NOT present any discrimination among users.
-API access can be dependent on the number of calls, the pricing plan subscribed, but CAN NOT depend on who the user is.
+<h3>Accessibility</h3> : The Open API has to be visible on the web, accessible as easy to discover, use and implement into 3rd party-apps, with clear specifications, with open source or non copyrighted or non patented clients.
+Price for accessing the resources can be free or for an affordable fee, or pay-as-you go for its average expected user.
 
-<h3>3- Content</h3>
-Content MUST have value for third party users.
+<h3>Interoperability</h3> : The open API has to follow standards to continue to be consistent with the network and the systems These standards has to be determined by the future of this First draft.
 
-<h3>4- Access</h3>
-Content MUST be machine readable. Usability will be enhanced by complying to standards allowing maximum interoperability.
-These standards SHOULD be compliant with W3C or IANA standards.
-If not, they SHOULD be compliant with internal standards withing the company.
-If not, they MUST comply with personal standards, easily accessed through resources made available and accesiible.
+<h3>Attribution, re-use and derived works</h3> : The provider will authorize any usage of its open API as long as it  respects the law and the integrity of the users’  and user’s data privacy.
+In counterparty, the provider can ask an explicit and visible attribution of the datasource in the 3rd party application. 
 
-<h3>5- Responsibility</h3>
-Providers are accountable. ToS MUST state use conditions. Changes MUST be notified and explained to users. Their access MUST stay as it is if not stated otherwise before. + RELIABILITY (= technical responsibility): MUST involve all the resources needed to maintain it.
-previously explained judicial process for a provider to revoke an access
+<h3>Neutrality towards people, organizations and usages</h3> : The Open API stay open with all potential users regardless of their identity, organization, fields and business sector, as long as the provenance of the data and resource is mentionned explicitely.
+No Tiering : The Open API has to keep the same policy and pricing for the same level  quality of service for every of its users.
 
-<h3>6- Writing/ Derivation/ Re-use/ Open source/ Open Assets</h3>
-is read only open?
-open source interface, data models: open API if you open your server
+<h3>ToS and Policy Changes</h3> : The open API provider has to have ToS easy to understand. He can change its open API as long as the updated version comply with the open API definition and has to present business and technical changes in a advance with respect of API users.
+He also have to be transparent about his Business model and the terms in case of acquisition.
+If an user doesn’t respect your open  API engagement by violating your ToS, you engage to explain publicly the reason of the revoking to whom concerned, with notice.
+
+<h3>Reliability</h3> : The open API provider has to invest enough human support and technical resources to make its open API reliable to its developers and 3rd party application ecosystem in a way that make things work well for a production usage. If he can’t allocate such resources, he can open source servers to fill this requirement.
+
+
+<h3>API copyright</h3> : API datamodel should be into commons.
+
