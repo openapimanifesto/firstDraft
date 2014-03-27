@@ -52,6 +52,7 @@ If an user doesn’t respect your open  API engagement by violating your ToS, yo
 
 <h3>Reliability</h3>  The open API provider has to invest enough human support and technical resources to make its open API reliable to its developers and 3rd party application ecosystem in a way that make things work well for a production usage. If he can’t allocate such resources, he can open source servers to fill this requirement.
 
+<h3>Transparencey </h3>  The open API provides access to transparent data and resources to enable 3rd parties to act like practionners and build with the providers asset in a deep relationship.
 
-<h3>API copyright</h3>  API datamodel should be into commons.
+<h3>API copyright</h3>  API design copyright policy has to be explicitely mentionned and should be into commons.
 
