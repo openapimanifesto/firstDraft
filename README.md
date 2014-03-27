@@ -33,25 +33,25 @@ The aim of the contribution is to be able to put in the first draft requirements
 
 <h2>Principles</h2>
 
-<h3>New resources to the network</h3> : The Open API provides valuable new assets (as resources) to the network to enable the community to build valuable 3rd-parties usages and applications/clients on top of these existing assets.
+<h3>New resources to the network</h3>  The Open API provides valuable new assets (as resources) to the network to enable the community to build valuable 3rd-parties usages and applications/clients on top of these existing assets.
 
-<h3>Accessibility</h3> : The Open API has to be visible on the web, accessible as easy to discover, use and implement into 3rd party-apps, with clear specifications, with open source or non copyrighted or non patented clients.
+<h3>Accessibility</h3>  The Open API has to be visible on the web, accessible as easy to discover, use and implement into 3rd party-apps, with clear specifications, with open source or non copyrighted or non patented clients.
 Price for accessing the resources can be free or for an affordable fee, or pay-as-you go for its average expected user.
 
-<h3>Interoperability</h3> : The open API has to follow standards to continue to be consistent with the network and the systems These standards has to be determined by the future of this First draft.
+<h3>Interoperability</h3>  The open API has to follow standards to continue to be consistent with the network and the systems These standards has to be determined by the future of this First draft.
 
-<h3>Attribution, re-use and derived works</h3> : The provider will authorize any usage of its open API as long as it  respects the law and the integrity of the users’  and user’s data privacy.
+<h3>Attribution, re-use and derived works</h3>  The provider will authorize any usage of its open API as long as it  respects the law and the integrity of the users’  and user’s data privacy.
 In counterparty, the provider can ask an explicit and visible attribution of the datasource in the 3rd party application. 
 
-<h3>Neutrality towards people, organizations and usages</h3> : The Open API stay open with all potential users regardless of their identity, organization, fields and business sector, as long as the provenance of the data and resource is mentionned explicitely.
+<h3>Neutrality towards people, organizations and usages</h3>  The Open API stay open with all potential users regardless of their identity, organization, fields and business sector, as long as the provenance of the data and resource is mentionned explicitely.
 No Tiering : The Open API has to keep the same policy and pricing for the same level  quality of service for every of its users.
 
-<h3>ToS and Policy Changes</h3> : The open API provider has to have ToS easy to understand. He can change its open API as long as the updated version comply with the open API definition and has to present business and technical changes in a advance with respect of API users.
+<h3>ToS and Policy Changes</h3>  The open API provider has to have ToS easy to understand. He can change its open API as long as the updated version comply with the open API definition and has to present business and technical changes in a advance with respect of API users.
 He also have to be transparent about his Business model and the terms in case of acquisition.
 If an user doesn’t respect your open  API engagement by violating your ToS, you engage to explain publicly the reason of the revoking to whom concerned, with notice.
 
-<h3>Reliability</h3> : The open API provider has to invest enough human support and technical resources to make its open API reliable to its developers and 3rd party application ecosystem in a way that make things work well for a production usage. If he can’t allocate such resources, he can open source servers to fill this requirement.
+<h3>Reliability</h3>  The open API provider has to invest enough human support and technical resources to make its open API reliable to its developers and 3rd party application ecosystem in a way that make things work well for a production usage. If he can’t allocate such resources, he can open source servers to fill this requirement.
 
 
-<h3>API copyright</h3> : API datamodel should be into commons.
+<h3>API copyright</h3>  API datamodel should be into commons.
 
